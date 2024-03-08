@@ -4,8 +4,9 @@
 > 인원 : iOS 1명, BE 1명   
 > 진행기간 : 7일
 #### 주요 기술  
-
 - Error Handling
+- URLSession
+- 
 #### 구글 로그인
 - JWT OAuth2.0
 - keychain
